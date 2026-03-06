@@ -1,59 +1,48 @@
-# Prasad Bebale's GitHub Profile
+# Prasad Bebale
 
-<p align="center">
-  <img alt="Prasad Bebale" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-</p>
+**Python Developer | AI/ML Enthusiast | Full-Stack Engineer**
 
+📧 Email: prasadbebale010@gmail.com  
+🔗 Portfolio: [prasadbebale.github.io/Portfolio](https://prasadbebale.github.io/Portfolio/)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prasadbebale&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+---
 
-## 👋 Hi, I'm Prasad Bebale
+## About Me
 
-- Portfolio https://prasadbebale.github.io/Portfolio/
-- 👨‍💻 Explore my projects on [GitHub](https://prasadbebale.github.io)
-- 📫 Reach me at **prasadbebale010@gmail.com**
+Full-stack developer with expertise in Python, Java, JavaScript, and Android development. I focus on building practical solutions including AI assistants, web applications, and data analysis tools. Passionate about problem-solving and continuous learning.
 
-### Connect with me:
+---
 
-<p align="center">
-  <a href="https://linkedin.com/in/prasad-bebale" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/prasad-bebale" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/prasad_101" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-</p>
+## Skills
 
-### Languages and Tools:
+**Languages:** Python, Java, JavaScript, Kotlin, PHP  
+**Technologies:** Android, React, OpenCV, MySQL, Pandas, Tableau  
+**Focus Areas:** AI/ML, Web Development, Mobile Development, Data Analysis
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</p>
+---
 
-### GitHub Stats:
+## Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasadbebale&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
-</p>
+- **IRIS Voice Assistant** - Python-based personal assistant with speech and text input
+- **GitHub Repos Display** - React web app to visualize GitHub user repositories  
+- **UEFA Tableau Dashboard** - Interactive sports data analysis dashboard
+- **Mobile Selling Website** - E-commerce platform for mobile phones
+- **Genotek Landing Page** - High-converting landing page prototype
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasadbebale&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+[View all projects →](https://github.com/prasadbebale?tab=repositories)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasadbebale&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+---
 
-### GitHub Activity Calendar:
+## GitHub Stats
 
-<p align="center">
-  <img src="metrics.svg" alt="GitHub Activity Calendar" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasadbebale&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=prasadbebale&layout=compact&theme=tokyonight)
 
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/prasad-bebale)
+[![GitHub](https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white)](https://github.com/prasadbebale)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F47F17?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/prasad-bebale)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/prasad_101)
